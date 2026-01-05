@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: skymin0717
+  username: zhyun0222
   card: summary
 logo: logo.png
 social:
-  name: Minseo Kim
+  name: Jihyun Baek
   links:
-    - https://github.com/skymin0717
+    - https://github.com/zhyun0222
 google_site_verification: xxxxx
 lang: en
 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Minseo Kim
-  url: https://github.com/skymin0717
-  email: mskim2556@gmail.com
+  name: Jihyun Beak
+  url: https://github.com/zhyun0222
+  email: whitezhyun@gmail.com
